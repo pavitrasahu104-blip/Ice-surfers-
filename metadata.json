@@ -1,0 +1,6 @@
+{
+  "name": "Frost Rush 3D",
+  "description": "A 3D downhill snow-sled endless runner game with lane switching, jumping, sliding, collectible coins, power-ups, and unlockable characters and sleds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
